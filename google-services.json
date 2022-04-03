@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1006695367271",
+    "project_id": "camera-and-gallery-775c4",
+    "storage_bucket": "camera-and-gallery-775c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006695367271:android:b196626d366e8bf1e78ac2",
+        "android_client_info": {
+          "package_name": "com.example.mycamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006695367271-liveg2k71keu19htgsfqgqqdie97ciq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRyyQ49uqeLd6GlYDxjQIFiOiN2R3UiHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006695367271-liveg2k71keu19htgsfqgqqdie97ciq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006695367271:android:fdf117e448d0d091e78ac2",
+        "android_client_info": {
+          "package_name": "com.example.wecam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006695367271-liveg2k71keu19htgsfqgqqdie97ciq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRyyQ49uqeLd6GlYDxjQIFiOiN2R3UiHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006695367271-liveg2k71keu19htgsfqgqqdie97ciq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006695367271:android:e864e8c92890841fe78ac2",
+        "android_client_info": {
+          "package_name": "net.smallacademy.cameraandgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006695367271-liveg2k71keu19htgsfqgqqdie97ciq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRyyQ49uqeLd6GlYDxjQIFiOiN2R3UiHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006695367271-liveg2k71keu19htgsfqgqqdie97ciq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
